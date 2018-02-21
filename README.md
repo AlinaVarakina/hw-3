@@ -1,5 +1,5 @@
 # hw-3
-[Таблица](https://docs.google.com/spreadsheets/d/1SIt-lbQdCII-_ZrRCh9DG34QznM0epn4BUJzaFkjy_A/edit#gid=1015568732&fvid=1783898666)
+[Таблица](https://docs.google.com/spreadsheets/d/1SIt-lbQdCII-_ZrRCh9DG34QznM0epn4BUJzaFkjy_A/edit#gid=1015568732&fvid=605664028)
 
 [Гугл форма](https://goo.gl/forms/cDgHYBzzUxgS6Ef03)
 
